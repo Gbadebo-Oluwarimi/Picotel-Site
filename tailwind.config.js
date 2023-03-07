@@ -11,6 +11,9 @@ module.exports = {
         poppins:['Poppins'],
         comforta:['Comfortaa']
       },
+      colors:{
+        darkgreen: '#132F05',
+      }
     },
   },
   plugins: [],
