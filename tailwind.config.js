@@ -9,10 +9,21 @@ module.exports = {
       fontFamily:{
         nunito:['Nunito'],
         poppins:['Poppins'],
-        comforta:['Comfortaa']
+        comforta:['Comfortaa'],
+        mulish:['Mulish']
       },
       colors:{
         darkgreen: '#132F05',
+        lightgreen:'#2E5737'
+      },
+      maxWidth:{
+        mx:'64rem'
+      },
+      padding:{
+        max:'9rem'
+      },
+      lineHeight:{
+        space:"3.75rem"
       }
     },
   },
