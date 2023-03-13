@@ -14,7 +14,8 @@ module.exports = {
       },
       colors:{
         darkgreen: '#132F05',
-        lightgreen:'#2E5737'
+        lightgreen:'#2E5737',
+        lightergreen:'#8AEFA1',
       },
       maxWidth:{
         mx:'64rem'
