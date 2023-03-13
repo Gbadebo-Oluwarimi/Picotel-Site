@@ -17,6 +17,9 @@ module.exports = {
         lightgreen:'#2E5737',
         lightergreen:'#8AEFA1',
       },
+      height:{
+        hg:"20rem",
+      },
       maxWidth:{
         mx:'64rem'
       },
@@ -24,7 +27,8 @@ module.exports = {
         max:'9rem'
       },
       lineHeight:{
-        space:"3.75rem"
+        space:"3.75rem",
+        minispace:"2.4rem"
       }
     },
   },
